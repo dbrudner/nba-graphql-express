@@ -8,8 +8,8 @@ app.use(
 	"/graphql",
 	graphqlHTTP({
 		schema: schema,
-		graphiql: true,
-	}),
+		graphiql: true
+	})
 );
 
-app.listen(3000);
+app.listen(process.env.PORT || 3000);
