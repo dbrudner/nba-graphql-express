@@ -1,4 +1,5 @@
-#A GraphQL for go-nba's API.
+# A GraphQL for go-nba's API.
 
-###Docs viewable here: https://nba-graphql-express.herokuapp.com/docs/
-###Graphiql viewable here: https://nba-graphql-express.herokuapp.com/graphiql/
+### Docs viewable here: https://nba-graphql-express.herokuapp.com/docs/
+
+### Graphiql viewable here: https://nba-graphql-express.herokuapp.com/graphiql/
